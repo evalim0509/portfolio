@@ -138,7 +138,7 @@ a:hover {
 /*--/ Title s /--*/
 .title-s {
   font-weight: 600;
-  color: #1e1e1e;
+  color: #FFE4E1;
   font-size: 1.1rem;
 }
 
@@ -263,7 +263,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #0078ff;
+  box-shadow: 0 0 0 10px #FFE4E1;
   display: block;
 }
 
@@ -868,7 +868,7 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #E799A3;
+  background-color: #FFE4E1;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
@@ -882,7 +882,7 @@ a:hover {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background-color: #E799A3;
+  background-color: #FFE4E1;
 }
 
 .service-box .ico-circle i {
