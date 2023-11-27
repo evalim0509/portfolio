@@ -3,7 +3,7 @@
 --------------------------------------------------------------*/
 
 body {
-  background-color: #000000;
+  background-color: #ffffff;
   color: #4e4e4e;
 }
 
@@ -868,8 +868,8 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #FEFBEA;
-  box-shadow: 0 0 0 10px #E6E3D3;
+  background-color: #E6E3D3;
+  box-shadow: 0 0 0 10px #FEFBEA;
 }
 
 .service-box .service-ico {
