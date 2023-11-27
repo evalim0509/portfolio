@@ -1,6 +1,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
 body {
   background-color: #000000;
   color: #4e4e4e;
