@@ -1,8 +1,3 @@
-<script>
-// Get the video
-var video = document.getElementById("myVideo");
-</script>
-  
 (function() {
   "use strict";
 
@@ -229,5 +224,10 @@ var video = document.getElementById("myVideo");
    * Initiate Pure Counter 
    */
   new PureCounter();
+
+<script>
+// Get the video
+var video = document.getElementById("myVideo");
+</script>
 
 })()
