@@ -827,7 +827,8 @@ a:hover {
 }
 
 .about-mf .about-img img {
-  margin-left: 6px;
+  margin-left: 10px;
+  height: 151px; /* Set the desired height */
 }
 
 @media (min-width: 767px) {
@@ -881,6 +882,7 @@ a:hover {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  background-color: #E799A3;
 }
 
 .service-box .ico-circle i {
@@ -893,10 +895,11 @@ a:hover {
   text-transform: uppercase;
   text-align: center;
   padding: 0.4rem 0;
+  color: #fff;
 }
 
 .service-box .s-description {
-  color: #FFFFFF;
+  color: #4e4e4e;
 }
 
 /*--------------------------------------------------------------
