@@ -1,10 +1,8 @@
-/**
-* Template Name: DevFolio
-* Updated: Nov 17 2023 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+<script>
+// Get the video
+var video = document.getElementById("myVideo");
+</script>
+  
 (function() {
   "use strict";
 
